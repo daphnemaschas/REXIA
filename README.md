@@ -1,5 +1,4 @@
 # Responsible-and-Explainable-AI
 
-dans "Statut marital" :
-- "Concubinage" et "Union libre" ont exactement la même signification donc on remplace tout par "Concubinage"
-proxies :
+(Dernière promotion (mois) élevée) + (Parent = 1) => Femme ?
+(Véhicule = 0) + (Parent = 1 ou Mariage) => Proche de l'établissement ?
