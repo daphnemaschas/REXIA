@@ -17,3 +17,5 @@ kagglehub
 
 # Models
 scikit-learn==1.4.1.post1
+torch
+torchvision
