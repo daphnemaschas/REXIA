@@ -1,4 +1,4 @@
-# Responsible-and-Explainable-AI
+# Responsible-and-Explainable-AI : Groupe 4 Antoine Yezou, Zacharie Boumard, Daphné Maschas, Maxence Rossignol
 
 - (Dernière promotion (mois) élevée) + (Parent = 1) => Femme ?
 - (Véhicule = 0) + (Parent = 1 ou Mariage) => Proche de l'établissement ?
